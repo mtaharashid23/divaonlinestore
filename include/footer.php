@@ -47,9 +47,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
             </div>
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
         </div>
     </div>
 </section>
@@ -83,47 +83,39 @@
                 </ul>
             </div>
             <div class="col-md-2">
-                <h4>QUICK LINKS</h4>
+                <h4>Diva Online Store</h4>
                 <ul class="links">
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About us</a></li>
-                    <li><a href="shop.php">Shop</a></li>
-                    <li><a href="faq.php">FAQ’s</a></li>
-                    <li><a href="contact.php">Contact us</a></li>
+                    <li><a href="">Serving Luxury Since 2017!</a></li>
+                    <li><a href="">About Us</a></li>
+                    <li><a href="">Luxury Guide</a></li>
+                    <li><a href="">Reviews Gallery</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
-                <h4>CATEGORIES</h4>
+                <h4>QUICK LINKS</h4>
                 <ul class="links">
-                    <li><a href="earrings.php">Earrings</a></li>
-                    <li><a href="shop.php">Rings</a></li>
-                    <li><a href="necklace.php">Necklace</a></li>
-                    <li><a href="bracelet.php">Bracelets</a></li>
-                    <li><a href="shop.php">Accessories</a></li>
+                    <li><a href="">Shop Now!</a></li>
+                    <li><a href="">Privacy Policy</a></li>
+                    <li><a href="">Terms & Conditions</a></li>
                 </ul>
             </div>
             <div class="col-md-3">
-                <h4>CONTACT INFO</h4>
+                <h4>Customer Support</h4>
                 <ul class="links quickLinks">
-                    <li><a href="tel:5164040081">Phone: 516 404 0081</a></li>
-                    <li><a href="mailto:jacqportella@gmail.com ">Email: jacqportella@gmail.com</a></li>
-                    <li><a href="clothing.php">Working hours Mon-Fri 10-18h CET <br> New York, United States</a></li>
+                    <li><a href="">My Account</a></li>
+                    <li><a href="">Checkout</a></li>
+                    <li><a href="">Cart</a></li>
+                    <li><a href="">Phone: +923152225970</a></li>
+                    <li><a href="">Email: orders@divaonlinestore.com</a></li>
                 </ul>
             </div>
         </div>
-        <div class="row align-items-center copyRight">
+        <div class="row gx-0 align-items-center copyRight justify-content-between">
+            <div class="col-md-4">
+                <p class="text-white m-0">&copy; Copyright 2025 Diva Online Store. All Rights Reserved.</p>
+            </div>            
             <div class="col-md-3">
-                <p class="text-white m-0">Copyright © 2024. All rights reserved.</p>
-            </div>
-            <div class="col-md-6">
-                <ul>
-                    <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                    <li><a href="terms-and-conditions.php">Terms And Conditions</a></li>
-                    <li><a href="refund-policy.php">Refund Policy</a></li>
-                </ul>
-            </div>
-            <div class="col-md-3 text-right">
-                <figure>
+                <figure class="text-end">
                     <img src="images/card1.png" class="img-fluid" alt="">
                 </figure>
             </div>

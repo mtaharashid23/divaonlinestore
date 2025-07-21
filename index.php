@@ -7,6 +7,9 @@ include 'include/header.php' ?>
 <div class="preLoader white"></div> -->
 
 <section class="main-slider p-0" id="mainSlider">
+    <!-- <figure class="main_banner_logo">
+        <img src="images/banner-logo.png" alt="image" class="img-fluid">
+    </figure> -->
     <div class="swiper-container homeSlider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
@@ -180,9 +183,9 @@ include 'include/header.php' ?>
                     </a>
                 </div>
             </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
         </div>
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
     </div>
 </section>
 
@@ -288,9 +291,9 @@ include 'include/header.php' ?>
                     </a>
                 </div>
             </div>
-        </div>
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>        
     </div>
 </section>
 
@@ -912,6 +915,8 @@ include 'include/header.php' ?>
                     </div>
                 </div>
             </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
         </div>
         <div class="viewBtn mt-2" data-aos="fade-up">
             <a href="" class="themeBtn mx-auto">Shop Sale</a>

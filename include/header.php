@@ -63,112 +63,61 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav m-auto">
-                        <li class="nav-item mega-menu-dropdown menu-open">
-                            <a href="" class="nav-link">
-                                WOMEN
-                                <span><i class="fal fa-angle-down"></i></span>
-                            </a>
-                            <div class="mega-menu-wrapper">
-                                <div class="mega-menu-inner">
-                                    <ul class="mega-menu-nav-second-level" data-lenis-prevent>
-                                        <li><a href="" class="bold-text">New Markdowns: Up to 70% Off</a></li>
-                                        <li><a href="">Shop All</a></li>
-                                        <li><a href="">Alice and Olivia</a></li>
-                                        <li><a href="">AQUA</a></li>
-                                        <li><a href="">Eileen Fisher</a></li>
-                                        <li><a href="">Free People</a></li>
-                                        <li><a href="">French Connection</a></li>
-                                        <li><a href="">Theory</a></li>
-                                        <li><a href="">Veronica Beard</a></li>
-                                        <li><a href="">Vince</a></li>
-                                        <li><a href="" class="bold-text">Special Event: Swimsuits & Coverups Up to 70%
-                                                off</a></li>
-                                        <li><a href="" class="bold-text">Select Dresses On Sale: 30% Off</a></li>
-                                        <li><a href="">Shop All</a></li>
-                                        <li><a href="">AQUA</a></li>
-                                        <li><a href="">ASTR the Label</a></li>
-                                        <li><a href="">Bardot</a></li>
-                                        <li><a href="">Steve Madden</a></li>
-                                        <li><a href="">WAYF</a></li>
-                                    </ul>
-                                    <ul class="mega-menu-nav-second-level" data-lenis-prevent>
-                                        Clothing
-                                        Active & Workout
-                                        Blazers
-                                        Cashmere
-                                        Coats & Jackets
-                                        Dresses
-                                        Jeans & Denim
-                                        Jumpsuits & Rompers
-                                        Lingerie, Bras, Panties & Hosiery
-                                        Loungewear
-                                        Maternity
-                                        Matching Sets
-                                        Pants & Leggings
-                                        Shorts & Skirts
-                                        Sleepwear & Robes
-                                        Suits & Separates
-                                        Sweaters
-                                        Swimsuits & Cover-Ups
-                                        Tops
-                                        Plus Size Clothing
-                                    </ul>
-                                    <ul class="mega-menu-nav-second-level" data-lenis-prevent>
-                                        <li><a href="" class="bold-text">New Markdowns: Up to 70% Off</a></li>
-                                        <li><a href="">Shop All</a></li>
-                                        <li><a href="">Alice and Olivia</a></li>
-                                        <li><a href="">AQUA</a></li>
-                                        <li><a href="">Eileen Fisher</a></li>
-                                        <li><a href="">Free People</a></li>
-                                        <li><a href="">French Connection</a></li>
-                                        <li><a href="">Theory</a></li>
-                                        <li><a href="">Veronica Beard</a></li>
-                                        <li><a href="">Vince</a></li>
-                                        <li><a href="" class="bold-text">Special Event: Swimsuits & Coverups Up to 70%
-                                                off</a></li>
-                                        <li><a href="" class="bold-text">Select Dresses On Sale: 30% Off</a></li>
-                                        <li><a href="">Shop All</a></li>
-                                        <li><a href="">AQUA</a></li>
-                                        <li><a href="">ASTR the Label</a></li>
-                                        <li><a href="">Bardot</a></li>
-                                        <li><a href="">Steve Madden</a></li>
-                                        <li><a href="">WAYF</a></li>
-                                    </ul>
-                                    <ul class="mega-menu-nav-second-level" data-lenis-prevent>
-                                        <li><a href="" class="bold-text">New Markdowns: Up to 70% Off</a></li>
-                                        <li><a href="">Shop All</a></li>
-                                        <li><a href="">Alice and Olivia</a></li>
-                                        <li><a href="">AQUA</a></li>
-                                        <li><a href="">Eileen Fisher</a></li>
-                                        <li><a href="">Free People</a></li>
-                                        <li><a href="">French Connection</a></li>
-                                        <li><a href="">Theory</a></li>
-                                        <li><a href="">Veronica Beard</a></li>
-                                        <li><a href="">Vince</a></li>
-                                        <li><a href="" class="bold-text">Special Event: Swimsuits & Coverups Up to 70%
-                                                off</a></li>
-                                        <li><a href="" class="bold-text">Select Dresses On Sale: 30% Off</a></li>
-                                        <li><a href="">Shop All</a></li>
-                                        <li><a href="">AQUA</a></li>
-                                        <li><a href="">ASTR the Label</a></li>
-                                        <li><a href="">Bardot</a></li>
-                                        <li><a href="">Steve Madden</a></li>
-                                        <li><a href="">WAYF</a></li>
-                                    </ul>
-                                    <div class="mega-menu-advert mega-menu-advert-right">
-                                        <a href="" class="mega-menu-card">
-                                            <figure class="mega-menu-card-img">
-                                                <img src="images/mega-menu-img2.png" alt="image" class="img-fluid">
-                                            </figure>
-                                            <div class="mega-menu-card-content">
-                                                <h4>Beef Roasting Joints</h4>
-                                                <span>Shop Now</span>
-                                            </div>
-                                        </a>
+                        <li class="nav-item mega-menu">
+                            <a href="#" class="nav-link">WOMEN <span><i class="fal fa-angle-down"></i></span></a>
+                            <div class="mega-dropdown">
+                                <div class="mega-content">
+                                    <div class="mega-column">
+                                        <h4>Clothing</h4>
+                                        <a href="#">Active & Workout</a>
+                                        <a href="#">Blazers</a>
+                                        <a href="#">Cashmere</a>
+                                        <a href="#">Coats & Jackets</a>
+                                        <a href="#">Dresses</a>
+                                        <a href="#">Jeans & Denim</a>
+                                        <a href="#">Jumpsuits & Rompers</a>
+                                        <a href="#">Lingerie, Bras, Panties & Hosiery</a>
+                                        <a href="#">Loungewear</a>
+                                        <a href="#">Maternity</a>
                                     </div>
-                                    <div class="mega-menu-btn">
-                                        <button type="button" class="themeBtn border-0 close-mega-menu"><i
-                                                class="fas fa-times"></i> close</button>
+                                    <div class="mega-column">
+                                        <h4>Dresses</h4>
+                                        <a href="#">Cocktail & Party</a>
+                                        <a href="#">Evening & Formal Gowns</a>
+                                        <a href="#">Summer Dresses</a>
+                                        <a href="#">Wedding Guest</a>
+                                        <h4>What To Wear For</h4>
+                                        <a href="#">Back to Campus</a>
+                                        <a href="#">Bride to Be</a>
+                                        <a href="#">Going Out</a>
+                                        <a href="#">Vacation</a>
+                                    </div>
+                                    <div class="mega-column">
+                                        <h4>New & Noteworthy</h4>
+                                        <a href="#">New Arrivals</a>
+                                        <a href="#">Best Sellers</a>
+                                        <a href="#">Most Wanted Styles: Under $200</a>
+                                        <a href="#">The Linen Shop</a>
+                                        <h4>Summer Essentials</h4>
+                                        <a href="#">Butter Yellow</a>
+                                        <a href="#">Cotton Poplin</a>
+                                        <a href="#">Gingham</a>
+                                        <a href="#">White Denim</a>
+                                    </div>
+                                    <div class="mega-column">
+                                        <h4>Featured Designers</h4>
+                                        <a href="#">Alice and Olivia</a>
+                                        <a href="#">AQUA</a>
+                                        <a href="#">Cinq à Sept</a>
+                                        <a href="#">FARM Rio</a>
+                                        <a href="#">FRAME</a>
+                                        <a href="#">MOTHER</a>
+                                        <a href="#">STAUD</a>
+                                        <a href="#">Veronica Beard</a>
+                                    </div>
+                                    <div class="mega-column mega-image">
+                                        <img src="images/bride.jpg" alt="Bride to Be">
+                                        <p>Bride to Be</p>
                                     </div>
                                 </div>
                             </div>

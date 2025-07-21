@@ -5,11 +5,47 @@
 }
 
 @media only screen and (max-width: 1600px) {
+	.modern h2 {
+		font-size: 12rem;
+	}
+
+	.freshHeading h2:before,
+	.freshHeading h2:after {
+		width: 15%;
+	}
+
+	.mainHeading {
+		font-size: 3rem;
+	}
 }
 
 @media only screen and (max-width: 1445px) {
 	html {
 		font-size: 15px;
+	}
+
+	.main-slider {
+		height: 800px;
+	}
+
+	.slideOne h1 {
+		font-size: 4.5rem;
+	}
+
+	.modern {
+		bottom: 0;
+	}
+
+	.modern h2 {
+		font-size: 11rem;
+	}
+
+	.cta_img__content .mainHeading {
+		font-size: 4rem;
+	}
+
+	.secHeading {
+		font-size: 3rem;
 	}
 }
 
@@ -17,24 +53,246 @@
 	html {
 		font-size: 14px;
 	}
+
+	.modern h2 {
+		font-size: 10rem;
+	}
+
+	.mainHeading {
+		font-size: 2.75rem;
+	}
+
+	.cta_img__content .mainHeading {
+		font-size: 3.75rem;
+	}
 }
 
 @media (max-width: 1199.98px) {
 	html {
 		font-size: 13px;
 	}
+
+	.main-slider {
+		height: 700px;
+	}
+
+	.slideOne h1 {
+		font-size: 4.125rem;
+	}
+
+	.modern h2 {
+		font-size: 9rem;
+	}
+
+	.mainHeading {
+		font-size: 2.5rem;
+	}
+
+	section {
+		padding: 4rem 0;
+	}
+
+	.cta_section {
+		height: 700px;
+	}
+
+	.cta_img__content .mainHeading {
+		font-size: 3.5rem;
+	}
+
+	.secHeading {
+		font-size: 2.75rem;
+	}
 }
+
 @media (max-width: 991.98px) {
 	html {
 		font-size: 12px;
 	}
+
+	.form-inline {
+		justify-content: center;
+		margin: 1.75rem 0;
+	}
+
+	.main-slider {
+		height: 600px;
+	}
+
+	.slideOne h1 {
+		font-size: 3.75rem;
+	}
+
+	.modern h2 {
+		font-size: 8rem;
+	}
+
+	.mainHeading {
+		font-size: 2.25rem;
+	}
+
+	.cta_section {
+		height: 600px;
+	}
+
+	.cta_img__content .mainHeading {
+		font-size: 3.25rem;
+	}
 }
+
 @media (max-width: 767.98px) {
 	html {
 		font-size: 11px;
 	}
+
+	.slideOne.text-white {
+		text-align: center;
+	}
+
+	.slideOne h1 {
+		font-size: 3.5rem;
+	}
+
+	.modern h2 {
+		font-size: 7rem;
+	}
+
+	.main-slider {
+		height: 500px;
+		border-radius: 0 0 3rem 3rem;
+	}
+
+	.mainHeading {
+		font-size: 2.125rem;
+	}
+
+	.instaSec .swiper-button-next,
+	.instaSec .swiper-button-prev,
+	.earingSec .swiper-button-next,
+	.earingSec .swiper-button-prev {
+		width: 40px;
+		height: 40px;
+	}
+
+	.freshHeading h2:before,
+	.freshHeading h2:after {
+		width: 60px;
+	}
+
+	section {
+		padding: 3rem 0;
+	}
+
+	.cta_section {
+		height: 500px;
+		background: 3rem 0 3rem;
+	}
+
+	.cta_img__content .mainHeading {
+		font-size: 3.125rem;
+	}
+
+	.serviceWrap {
+		margin-bottom: 2.25rem;
+	}
+
+	.serviceWrap figure img {
+		aspect-ratio: 3 / 2;
+	}
+
+	.secHeading {
+		font-size: 2.5rem;
+	}
+
+	.signBg {
+		padding: 1.75em;
+	}
+
+	.footLogo img {
+		width: 150px;
+	}
+
+	.topSocial {
+		margin-bottom: 2.25rem;
+	}
+
+	.signHead {
+		margin-bottom: 1rem;
+	}
+
+	.topSocial li a {
+		width: 38px;
+	}
+
+	.searchForm .themeBtn {
+		padding: .75em 2.125em;
+	}
+
+	footer h4 {
+		margin: 1.75rem 0;
+	}
+
+	footer p.text-white.m-0 {
+		text-align: center;
+	}
+
+	figure.text-end {
+		text-align: center !important;
+		margin: 1rem 0 0;
+	}
+
+	.main-slider .btn-group {
+		gap: 1rem;
+		flex-flow: wrap;
+		justify-content: center;
+	}
 }
+
 @media (max-width: 575.98px) {
+	.slideOne h1 {
+		font-size: 3.125rem;
+	}
+
+	.modern {
+		bottom: 1rem;
+		left: 50%;
+		right: unset;
+		transform: translateX(-50%);
+	}
+
+	.modern h2 {
+		font-size: 5rem;
+	}
+
+	.cta_img__content .mainHeading {
+		font-size: 3rem;
+	}
+
+	.cta_section {
+		height: 400px;
+	}
+
+	.secHeading {
+		font-size: 2.125rem;
+	}
+
+	.header_top {
+		flex-flow: row wrap;
+		gap: .25rem;
+	}
+
+	.header_top_info,
+	.header_top_link {
+		justify-content: center;
+	}
 }
+
 @media (max-width: 320.98px) {
+	.slideOne h1 {
+		font-size: 3em;
+	}
+
+	.cta_img__content .mainHeading {
+		font-size: 2.75rem;
+	}
 }
